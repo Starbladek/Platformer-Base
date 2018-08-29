@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Ledge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Far Background
+    uniqueID: 2428878715
+    locked: 0
+  - name: Medium Background
+    uniqueID: 1998233329
+    locked: 0
+  - name: Near Background
+    uniqueID: 3106558487
+    locked: 0
+  - name: Behind Default
+    uniqueID: 1995457157
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: In Front of Default
+    uniqueID: 755734115
+    locked: 0
+  - name: Foreground
+    uniqueID: 1281282051
+    locked: 0
+  - name: Close Foreground
+    uniqueID: 3661569585
+    locked: 0
