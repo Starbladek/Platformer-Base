@@ -46,6 +46,9 @@ TagManager:
   - name: Medium Background
     uniqueID: 1998233329
     locked: 0
+  - name: Background
+    uniqueID: 2903208499
+    locked: 0
   - name: Near Background
     uniqueID: 3106558487
     locked: 0
